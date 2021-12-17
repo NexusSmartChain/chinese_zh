@@ -2,7 +2,7 @@
 
 ## 简体中文
 
-* [English](https://metanexus.gitbook.io/english/index)
+* [English](https://metanexus.gitbook.io/english1/index)
 * [繁體中文](https://metanexus.gitbook.io/fanti/index)
 
 ***
