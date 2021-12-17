@@ -2,8 +2,8 @@
 
 ## 简体中文
 
-* [English](https://metanexus.gitbook.io/product-docs/)
 * [繁體中文](https://metanexus.gitbook.io/fanti/index)
+* [English](https://metanexus.gitbook.io/english/index)
 
 ***
 
